@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌐 About Me:
 I'm a B.Tech student focused on building small web projects and improving problem-solving through LeetCode.<br><br>Currently Learning<br>JavaScript (advanced concepts), cloud computing, DSA, and coding interview logic.<br>📊Open To<br>Web development projects (beginner–intermediate)<br>DSA practice groups<br>Internship opportunities<br><br>💬 Ask Me About<br>LeetCode strategies, JavaScript basics, simple web apps.<br>Fun Fact<br>I track my mistakes more seriously than my wins ,that’s how I improve.
 
 
