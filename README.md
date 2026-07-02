@@ -1,24 +1,170 @@
-# 🌐 About Me:
-I'm a B.Tech student focused on building small web projects and improving problem-solving through LeetCode.<br><br>Currently Learning<br> Web Development concepts(Frontend and Backend Technologies), DSA, and coding interview logic.<br>📊Open To any kind of Web Development Internship<br>Web development projects (beginner–intermediate)<br>DSA practice groups<br>Internship opportunities<br><br>💬 Ask Me About<br>LeetCode strategies, JavaScript basics, simple web apps.<br>Fun Fact<br>I track my mistakes more seriously than my wins ,that’s how I improve.
+<div align="center">
 
+# Hi 👋, I'm Mohd Kaish
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-kaish-b8baa71b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaishredmi743@gmail.com) 
+### 💻 Full-Stack Web Developer (Aspiring) | DSA Enthusiast | Open Source Learner
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaish10-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kaish10-hub&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaish10-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+%F0%9F%9A%80;Learning+MERN+Stack+%F0%9F%8C%B1;Solving+DSA+Problems+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%92%AA" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaish10-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://komarev.com/ghpvc/?username=kaish10-hub\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaish10-hub&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaish10-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Passionate about Full-Stack Web Development
+* 🌱 Currently learning **MERN Stack**
+* 🧠 Solving **Data Structures & Algorithms** regularly
+* 🤝 Interested in Open Source Contributions
+* 🚀 Building real-world web applications
+* 🎯 Goal: Become a Software Development Engineer (SDE)
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🎵 Spotify-Web-Player
+
+> Spotify-inspired web music player with dynamic playlists, playback controls, seek functionality, volume control, and responsive design using HTML, CSS, and JavaScript.
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000?style=for-the-badge)](https://spotify-web-player-kaish.netlify.app/)
+
+**Tech Used**
+
+* HTML
+* CSS
+* JavaScript
+* Fetch APIs
+
+---
+
+## 🌐 Cerso Business Landing Page
+
+> Responsive business landing page for Cerso built with HTML, CSS, and JavaScript featuring modern UI, smooth animations, mobile navigation, service showcase, testimonials, and an interactive quote request form.
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000?style=for-the-badge)](https://cerso-landing-page.netlify.app/)
+
+**Tech Used**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📚 Currently Learning
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaish10-hub&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=kaish10-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaish10-hub&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kaish10-hub&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaish10-hub&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kaish10-hub/kaish10-hub/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Kaish10-hub">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="www.linkedin.com/in/mohd-kaish10">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:kaishredmi743@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Code. Learn. Build. Repeat."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
