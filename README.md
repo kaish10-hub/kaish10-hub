@@ -21,6 +21,7 @@
 * 🤝 Interested in Open Source Contributions
 * 🚀 Building real-world web applications
 * 🎯 Goal: Become a Software Development Engineer (SDE)
+* 📩 Reach me at **yashg5304@gmail.com**
 
 ---
 
@@ -93,41 +94,35 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaish10-hub&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=kaish10-hub&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaish10-hub&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaish10-hub&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=kaish10-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaish10-hub&theme=tokyonight" />
+</p>
 
+<!-- <p align="center">
 # 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kaish10-hub&theme=tokyonight&no-frame=true&margin-w=15" />
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaish10-hub&theme=tokyonight&no-frame=true&margin-w=15" />
-
-</p>
+</p> -->
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaish10-hub&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaish10-hub&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -143,7 +138,10 @@
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
+
+### <i>Open to collaborations, open-source contributions, and great conversations.</i>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaish10-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-kaish10)
@@ -157,8 +155,8 @@
 
 <div align="center">
 
-### 💡 *"Code. Learn. Build. Repeat."*
-
-⭐ Thanks for visiting my profile!
+### ⭐ Consider starring my repos, if you like my project — it means a lot! ⭐
+### Made with ❤️ by Mohd Kaish
+### Thanks for visiting my profile!
 
 </div>
