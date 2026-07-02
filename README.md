@@ -10,6 +10,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🚀 About Me
@@ -22,6 +24,8 @@
 * 🚀 Building real-world web applications
 * 🎯 Goal: Become a Software Development Engineer (SDE)
 * 📩 Reach me at **kaishredmi743@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -45,11 +49,13 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -94,6 +100,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -135,6 +143,7 @@
 </p>
 
 ---
+
 
 # 🤝 Connect With Me
 
