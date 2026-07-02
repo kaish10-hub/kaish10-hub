@@ -21,7 +21,7 @@
 * 🤝 Interested in Open Source Contributions
 * 🚀 Building real-world web applications
 * 🎯 Goal: Become a Software Development Engineer (SDE)
-* 📩 Reach me at **yashg5304@gmail.com**
+* 📩 Reach me at **kaishredmi743@gmail.com**
 
 ---
 
