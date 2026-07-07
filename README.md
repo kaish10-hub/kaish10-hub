@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=MOHD%20KAISH&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
+
 # Hi 👋, I'm Mohd Kaish
 
 ### 💻 Full-Stack Web Developer (Aspiring) | DSA Enthusiast | Open Source Learner
@@ -109,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kaish10-hub&theme=tokyonight&hide_border=true&cache_seconds=60" alt="GitHub Streak" />
+   <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kaish10-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
