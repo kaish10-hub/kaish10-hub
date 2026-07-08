@@ -78,17 +78,18 @@
 
 ---
 
-## 🌐 Cerso Business Landing Page
+## 🌐 Currency Converter
 
-> Responsive business landing page for Cerso built with HTML, CSS, and JavaScript featuring modern UI, smooth animations, mobile navigation, service showcase, testimonials, and an interactive quote request form.
+> A modern and responsive currency converter built with HTML, CSS, and JavaScript, featuring real-time exchange rates, smooth animations, and an intuitive user interface.
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000?style=for-the-badge)](https://cerso-landing-page.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000?style=for-the-badge)](https://quick-currencyconverter.netlify.app/)
 
 **Tech Used**
 
 * HTML
 * CSS
 * JavaScript
+* REST APIs
 
 ---
 
